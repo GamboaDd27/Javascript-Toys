@@ -1,5 +1,5 @@
 # The-Great-RGB-Color-Game
-A simple and entertaining color-choosing game.
+The greatest color-picking game in the world!
 This repository is part of the Developed Toys Project
 
 Absolutely everything here is licensed under MIT license
